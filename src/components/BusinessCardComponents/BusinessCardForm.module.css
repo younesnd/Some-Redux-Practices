@@ -1,0 +1,13 @@
+
+.formBlock {
+    @apply flex flex-col mb-6;
+    }
+.formLabel {
+    @apply mb-3 font-semibold;
+    }
+.formInput {
+    @apply rounded-md mb-3 w-full shadow-md;
+    }
+        
+
+    
